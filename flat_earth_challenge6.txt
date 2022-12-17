@@ -1,0 +1,60 @@
+
+	Six Point Earth Geometry Model
+
+1. Introduction
+	The shape of the Earth is a question of geometry.  To determine
+	that geometry you can use some known places on the Earth and
+	the distances between them.
+
+2. Pick some well known places on Earth
+	SOL	Statue of Liberty, New York USA
+	TJM	Taj Mahal, Agra India
+	AZM	Arizona WWII Memorial, Hawaii USA
+	SOH	Sydney Opera House, Sydney Australia
+	CGH	Cape of Good Hope, Capetown South Africa
+	EOW	End of the World Post Office, Ushuaia Argentina
+
+3. Determine the distances between the places (source: Google Maps, nearest kilometer)
+
+	*-CGH-------------------------12598-----------------------SOL-*
+
+	*-TJM-----------------------11938----------------------SOL-*
+
+	*-TJM-----------------------11929----------------------AZM-*
+
+	*-EOW-----------------------11901----------------------AZM-*
+
+	*-SOH--------------------10973--------------------CGH-*
+
+	*-SOL--------------------10636------------------EOW-*
+
+	*-SOH--------------------10266----------------TJM-*
+
+	*-EOW------------------9449---------------SOH-*
+
+	*-TJM-----------------9278---------------CGH-*
+
+	*-AZM-------------8163--------------SOH-*
+
+	*-SOL------------7983--------------AZM-*
+
+	*-CGH----------6769----------EOW-*
+
+4. Prepare the model
+	Print this document (fixed width font) and then cut out each of the
+	above 12 distance lines as a separate stick.  Each printed
+	character on the sticks represents a distance of 200 kilometers.
+	
+5. Assemble the model
+	Each place appears at the end of exactly 4 sticks.  Find a group
+	of 4 ends with the same 3-letter label and use a fastener through
+	the '*' of each stick to hold them together.  Repeat for the
+	remaining 5 labels.  Do not cut, tear, fold, spindle or mutilate
+	the sticks during assembly.
+
+	In the real world, none of the connections cross another, so the
+	constructed model should also have no crossing sticks.
+
+6. Show your results
+	Take a picture of your completed model and email/post/publish it
+	so that others can examine and verify your solution.
